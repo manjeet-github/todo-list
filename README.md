@@ -1,3 +1,4 @@
+# DEMO - PR triggers SNYK Run
 # todo-list
 Spring Boot + React Todo List
 
